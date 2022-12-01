@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_horrow.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_horrow.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_byom.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_byom.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_fav3.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_fav3.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_delivered.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_delivered.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_submit.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_submit.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_rupee.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_rupee.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_readyforpickup.jpeg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_readyforpickup.jpeg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_genres.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_genres.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_menu.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_menu.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_bi_weekly.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_bi_weekly.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_picon_4.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_picon_4.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_single.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_single.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_search.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_search.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_action.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_action.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_outline_gps_fixed_black_48.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_outline_gps_fixed_black_48.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_drama.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_drama.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_down_arrow.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_down_arrow.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_monthly.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_monthly.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_splashscreen.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_splashscreen.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_bcil.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_bcil.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_down.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_down.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_boy.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_boy.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_outline_edit_note_black_48.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_outline_edit_note_black_48.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_outfordelivery.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_outfordelivery.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_fav2.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_fav2.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativedatepicker_date_icon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnativedatepicker_date_icon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_edit.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_edit.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_back.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_back.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_terms.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_terms.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_mangal.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_mangal.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_dot.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_dot.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nodeemoji_lib_emoji.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nodeemoji_lib_emoji.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_reports.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_reports.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_ban.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_ban.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_download.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_download.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_assets_fonts_montserratregular.ttf.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/assets_fonts_montserratregular.ttf"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_intransit.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_intransit.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_more_horizontal.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_more_horizontal.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_arrow.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_arrow.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_localfile_countryname.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/localfile_countryname.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_arrow1.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_arrow1.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_dropdown.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_dropdown.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_bannerhome.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_bannerhome.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_bkash.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_bkash.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_previousactive.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_previousactive.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_login_bg.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_login_bg.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_baghi.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_baghi.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_visibility_off.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_visibility_off.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_tables.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_tables.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_badhi.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_badhi.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_cash.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_cash.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_pickedup.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_pickedup.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_fav4.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_fav4.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_wirehouse.jpeg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_wirehouse.jpeg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_profile.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_profile.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_more.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_more.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_settings.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_settings.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_close.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_close.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_graph.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_graph.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_movie.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_movie.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_fav1.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_fav1.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_thriller.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_thriller.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_favourite.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_favourite.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_comedy.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_comedy.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_picon_3.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_picon_3.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_bfsl.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_bfsl.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_gmail.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_gmail.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_icons8nodataavailible96.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_icons8nodataavailible96.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_facebook.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_facebook.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_destinationwirehouse.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_destinationwirehouse.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_beauty.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_beauty.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_yearly.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_yearly.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_reality.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_reality.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_visa.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_visa.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_pade.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_pade.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_header_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_header_logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_privacy.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_privacy.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_picon_1.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_picon_1.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_logout.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_logout.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_bclc.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_bclc.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_series.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_series.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_filter.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_filter.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_war.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_war.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_cancelinline.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_cancelinline.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_splash.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_splash.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_bpml.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_bpml.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_arocrm.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_arocrm.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_user.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_user.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_blue_profile.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_blue_profile.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_romance.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_romance.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_picon_2.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_picon_2.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_user.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_user.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_nextactive.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_nextactive.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_back.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_back.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_map.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_map.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_family.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_family.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_fav5.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_fav5.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_circle_down.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_circle_down.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_profile.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_profile.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_password.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_password.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_logo.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_logo.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_card.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_card.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_weekly.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_weekly.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_share.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_share.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_master.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_master.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_bbml.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_bbml.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_loginbackgroundimg.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/assets_img_loginbackgroundimg.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_girls.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_girls.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_support.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_support.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_nativebase_dist_src_basic_icon_selection.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_nativebase_dist_src_basic_icon_selection.json"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_comment_arrow.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_comment_arrow.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_visibility_on.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_visibility_on.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_lock.jpg.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_lock.jpg"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/drawable-mdpi_images_paytm.png.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/drawable-mdpi/images_paytm.png"
+    },
+    {
+        "merged": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    }
+]

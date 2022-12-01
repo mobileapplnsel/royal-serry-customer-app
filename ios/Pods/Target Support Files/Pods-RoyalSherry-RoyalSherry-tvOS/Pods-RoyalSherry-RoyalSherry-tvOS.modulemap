@@ -1,0 +1,6 @@
+module Pods_RoyalSherry_RoyalSherry_tvOS {
+  umbrella header "Pods-RoyalSherry-RoyalSherry-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

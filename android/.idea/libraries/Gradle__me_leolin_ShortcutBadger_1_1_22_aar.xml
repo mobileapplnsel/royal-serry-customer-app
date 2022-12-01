@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: me.leolin:ShortcutBadger:1.1.22@aar">
+    <CLASSES>
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/53aa768b46a0164a3050cc0a8b85f2ad/ShortcutBadger-1.1.22/res" />
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/jars/classes.jar!/" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/res" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/59e7b922f40c943616ff2d9788f11650/jetified-ShortcutBadger-1.1.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49c9bcaa6cc5d74a34759ca97e3af361/jetified-ShortcutBadger-1.1.22/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/me.leolin/ShortcutBadger/1.1.22/8d181708c3d0b7cd93e7fbcb4467dae47603ee0b/ShortcutBadger-1.1.22-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.leolin/ShortcutBadger/1.1.22/8d181708c3d0b7cd93e7fbcb4467dae47603ee0b/ShortcutBadger-1.1.22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/me.leolin/ShortcutBadger/1.1.22/614ef59fdccd8e121fa40ba7d454307025f8f0fe/ShortcutBadger-1.1.22-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.leolin/ShortcutBadger/1.1.22/614ef59fdccd8e121fa40ba7d454307025f8f0fe/ShortcutBadger-1.1.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

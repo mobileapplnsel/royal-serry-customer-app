@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:annotation:0.8.0@aar">
+    <CLASSES>
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/res" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/AndroidManifest.xml" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/res" />
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6a28f5dee1180f9fbd5f3f249f1494d1/jetified-annotation-0.8.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/111c63aed94a78b42d492ca3ba4d70d5/jetified-annotation-0.8.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/a2fae398964a73c913cc246c928a32b0ea7bf02d/annotation-0.8.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/a2fae398964a73c913cc246c928a32b0ea7bf02d/annotation-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/f3328a2374b08a76aba8d5109d73cbf006b12b1/annotation-0.8.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/f3328a2374b08a76aba8d5109d73cbf006b12b1/annotation-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

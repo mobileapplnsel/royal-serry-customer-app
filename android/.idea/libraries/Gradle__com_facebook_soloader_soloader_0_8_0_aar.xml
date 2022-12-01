@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:soloader:0.8.0@aar">
+    <CLASSES>
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/5a3aa94c06ae5c4776b884d2cf32296f/soloader-0.8.0/res" />
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/jars/classes.jar!/" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/res" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/beae0d8ce3a0a151c53b3cd762ea6231/jetified-soloader-0.8.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f83ebd0495eafd4c60d8f3e9a90059e/jetified-soloader-0.8.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.8.0/c644bd4117372beb71d39ee76eddadbca5339c9/soloader-0.8.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.8.0/c644bd4117372beb71d39ee76eddadbca5339c9/soloader-0.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.8.0/706a6ff21ccf9c0359dc6cf286d64ae89bff1148/soloader-0.8.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.8.0/706a6ff21ccf9c0359dc6cf286d64ae89bff1148/soloader-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

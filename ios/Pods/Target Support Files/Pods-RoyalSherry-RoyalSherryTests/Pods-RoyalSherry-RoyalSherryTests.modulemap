@@ -1,0 +1,6 @@
+module Pods_RoyalSherry_RoyalSherryTests {
+  umbrella header "Pods-RoyalSherry-RoyalSherryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

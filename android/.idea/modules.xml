@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RoyalSherry.iml" filepath="$PROJECT_DIR$/.idea/modules/RoyalSherry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2141776642/RoyalSherry.@react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2141776642/RoyalSherry.@react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RoyalSherry.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RoyalSherry.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-180642120/RoyalSherry.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-180642120/RoyalSherry.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1053709620/RoyalSherry.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1053709620/RoyalSherry.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-75642798/RoyalSherry.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-75642798/RoyalSherry.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1659599231/RoyalSherry.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1659599231/RoyalSherry.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-531632451/RoyalSherry.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-531632451/RoyalSherry.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-393170054/RoyalSherry.react-native-firebase-push-notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-393170054/RoyalSherry.react-native-firebase-push-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1539648315/RoyalSherry.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1539648315/RoyalSherry.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-919697193/RoyalSherry.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-919697193/RoyalSherry.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/862831770/RoyalSherry.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/862831770/RoyalSherry.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-112254409/RoyalSherry.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-112254409/RoyalSherry.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1481912338/RoyalSherry.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1481912338/RoyalSherry.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1849663878/RoyalSherry.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1849663878/RoyalSherry.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2105016015/RoyalSherry.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-2105016015/RoyalSherry.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1108606456/RoyalSherry.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1108606456/RoyalSherry.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

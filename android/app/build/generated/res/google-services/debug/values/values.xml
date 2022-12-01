@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">282485118083-bma8j6bkpamjgf235564bbhbe66gd76l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">282485118083</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdqb3qY7turOV54UPA3bDkk9-0hHlZ6no</string>
+    <string name="google_app_id" translatable="false">1:282485118083:android:1dec48dd404fe0cad337b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdqb3qY7turOV54UPA3bDkk9-0hHlZ6no</string>
+    <string name="google_storage_bucket" translatable="false">royal-sherry.appspot.com</string>
+    <string name="project_id" translatable="false">royal-sherry</string>
+</resources>

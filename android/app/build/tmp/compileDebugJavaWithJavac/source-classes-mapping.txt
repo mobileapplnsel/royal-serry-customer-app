@@ -1,0 +1,14 @@
+com/RoyalSherry/BuildConfig.java
+ com.RoyalSherry.BuildConfig
+com/RoyalSherry/MainApplication.java
+ com.RoyalSherry.MainApplication
+ com.RoyalSherry.MainApplication$1
+com/RoyalSherry/ReactNativeFlipper.java
+ com.RoyalSherry.ReactNativeFlipper
+ com.RoyalSherry.ReactNativeFlipper$1
+ com.RoyalSherry.ReactNativeFlipper$2
+ com.RoyalSherry.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/RoyalSherry/MainActivity.java
+ com.RoyalSherry.MainActivity

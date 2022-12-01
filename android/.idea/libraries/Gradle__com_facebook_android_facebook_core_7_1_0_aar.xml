@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-core:7.1.0@aar">
+    <CLASSES>
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/e7b5fd767aab66f2b729629f27a59855/jetified-facebook-core-7.1.0/res" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/AndroidManifest.xml" />
+      <root url="file://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/res" />
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e31171b140dcd3791a50675d192afeb/jetified-facebook-core-7.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/217d30abef1bd156b0fe78716e9d608d/jetified-facebook-core-7.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/ae703f42ef963971b01c20220c53c1e5bf5612d8/facebook-core-7.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/ae703f42ef963971b01c20220c53c1e5bf5612d8/facebook-core-7.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Siddhartha Gradle/gradle-6.2.2/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/7.1.0/38cc21099dfb6c933008b9c4ebcf9ac12a5c2153/facebook-core-7.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

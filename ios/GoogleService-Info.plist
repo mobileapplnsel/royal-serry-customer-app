@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>282485118083-f8ur7bnfraoh4tr5l9c5nb461cc54oku.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.282485118083-f8ur7bnfraoh4tr5l9c5nb461cc54oku</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>282485118083-tcnm0cjdb2m3oflvupn4f3q1ahadej2r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBX-i6h2tYv-IhgK0z5ra8rT3Ntdk0qjjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>282485118083</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.lnsel.RoyalSherry</string>
+	<key>PROJECT_ID</key>
+	<string>royal-sherry</string>
+	<key>STORAGE_BUCKET</key>
+	<string>royal-sherry.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:282485118083:ios:9069562bfeb7a7bcd337b6</string>
+</dict>
+</plist>

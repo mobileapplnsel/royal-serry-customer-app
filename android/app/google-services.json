@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282485118083",
+    "project_id": "royal-sherry",
+    "storage_bucket": "royal-sherry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282485118083:android:1dec48dd404fe0cad337b6",
+        "android_client_info": {
+          "package_name": "com.RoyalSherry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282485118083-tcnm0cjdb2m3oflvupn4f3q1ahadej2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.RoyalSherry",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "282485118083-bma8j6bkpamjgf235564bbhbe66gd76l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqb3qY7turOV54UPA3bDkk9-0hHlZ6no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282485118083-bma8j6bkpamjgf235564bbhbe66gd76l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
