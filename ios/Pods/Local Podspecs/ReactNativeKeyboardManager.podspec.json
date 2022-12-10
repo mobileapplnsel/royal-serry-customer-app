@@ -11,7 +11,7 @@
     "url": "https://github.com/douglasjunior"
   },
   "source": {
-    "git": "git+https://github.com/douglasjunior/react-native-keyboard-manager.git",
+    "git": "https://github.com/douglasjunior/react-native-keyboard-manager.git",
     "tag": "6.5.4-2"
   },
   "platforms": {

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "/Users/lnselapp/royal-serry-customer-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/appdev/.gradle/caches/transforms-2/files-2.1/c36d487a1143b43238b786103a617f6f/appcompat-1.1.0/res/values-v22/values-v22.xml",
+                    "source": "/Users/lnselapp/.gradle/caches/transforms-2/files-2.1/86faea397c0945fa335a13c9da172412/appcompat-1.1.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

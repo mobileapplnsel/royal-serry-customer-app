@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "/Users/lnselapp/royal-serry-customer-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/appdev/.gradle/caches/transforms-2/files-2.1/c6dd338e1ce3581564e9f22ba0a52193/material-1.1.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+                    "source": "/Users/lnselapp/.gradle/caches/transforms-2/files-2.1/3c94d54ab44d976ab256bcd54807d102/material-1.1.0/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

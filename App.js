@@ -61,7 +61,7 @@ RegistrationPage: { screen: RegistrationPage,
 }, 
 StastShipmentPage: { screen: StastShipmentPage, 
   navigationOptions: {
-  header: null //this will hide the header
+  header: null //notificationthis will hide the header
 },
 }, 
 LocationPage: { screen: LocationPage, 

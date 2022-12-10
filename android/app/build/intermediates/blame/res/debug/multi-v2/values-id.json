@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "outputFile": "/Users/lnselapp/royal-serry-customer-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
-                    "source": "/Users/appdev/.gradle/caches/transforms-2/files-2.1/8ed92201a9d35791aeea06689bebb39d/jetified-facebook-common-8.2.0/res/values-id/values-id.xml",
+                    "source": "/Users/lnselapp/.gradle/caches/transforms-2/files-2.1/c5f9fa8a9c9be9750afc8253b00e4cba/jetified-facebook-common-8.2.0/res/values-id/values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

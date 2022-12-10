@@ -86,10 +86,7 @@
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_allow_stacked_button_bar">false</bool>
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
-    <bool name="enable_system_alarm_service_default">true</bool>
-    <bool name="enable_system_job_service_default">false</bool>
     <bool name="mtrl_btn_textappearance_all_caps">true</bool>
-    <bool name="workmanager_test_configuration">false</bool>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
@@ -777,8 +774,6 @@
     <string name="com_facebook_tooltip_default">You\'re in control - choose what info you want to share with apps.</string>
     <string name="combobox_description" translatable="false">Combo Box</string>
     <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
-    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
-    <string name="default_notification_channel_name" translatable="true">Weather</string>
     <string name="default_web_client_id" translatable="false">282485118083-bma8j6bkpamjgf235564bbhbe66gd76l.apps.googleusercontent.com</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
@@ -786,7 +781,6 @@
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_app_id">3332608803450641</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="fcm_message">FCM Message</string>
     <string name="gcm_defaultSenderId" translatable="false">282485118083</string>
     <string name="google_api_key" translatable="false">AIzaSyBdqb3qY7turOV54UPA3bDkk9-0hHlZ6no</string>
     <string name="google_app_id" translatable="false">1:282485118083:android:1dec48dd404fe0cad337b6</string>
@@ -798,14 +792,10 @@
     <string name="image_description" translatable="false">Image</string>
     <string name="imagebutton_description" translatable="false">Button, Image</string>
     <string name="link_description" translatable="false">Link</string>
-    <string name="log_token">Log Token</string>
     <string name="menu_description" translatable="false">Menu</string>
     <string name="menubar_description" translatable="false">Menu Bar</string>
     <string name="menuitem_description" translatable="false">Menu Item</string>
     <string name="messenger_send_button_text">Send</string>
-    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
-    <string name="msg_subscribed">Subscribed to weather topic</string>
-    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
     <string description="Content description for new notification (no number count) [CHAR_LIMIT=NONE]" name="mtrl_badge_numberless_content_description">New notification</string>
     <string description="Content description for a close icon that lets the user remove content from the screen" name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_exceed_max_badge_number_suffix" translatable="false"><ns1:g example="999" id="maximum number">%1$d</ns1:g><ns1:g example="+" id="suffix">%2$s</ns1:g></string>
@@ -847,9 +837,6 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
     <string name="project_id" translatable="false">royal-sherry</string>
-    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
-        weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
-        InstanceID token to logcat.</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>
@@ -863,7 +850,6 @@
     <string name="state_off_description" translatable="false">off</string>
     <string name="state_on_description" translatable="false">on</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="subscribe_to_weather">Subscribe To Weather</string>
     <string name="summary_description" translatable="false">Summary</string>
     <string name="tablist_description" translatable="false">Tab List</string>
     <string name="timer_description" translatable="false">Timer</string>

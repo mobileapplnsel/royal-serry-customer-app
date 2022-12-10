@@ -6,8 +6,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="28" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="29" />
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -53,7 +53,6 @@
         android:launchMode="singleTop"
         android:roundIcon="@mipmap/logo"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
@@ -210,10 +209,10 @@
                 android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
@@ -268,6 +267,15 @@
             android:enabled="true"
             android:exported="false" >
         </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
 
         <service
             android:name="com.google.android.gms.measurement.AppMeasurementService"
@@ -289,96 +297,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
-        <provider
-            android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.RoyalSherry.workmanager-init"
-            android:directBootAware="false"
-            android:exported="false"
-            android:multiprocess="true" />
-
-        <service
-            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-            android:directBootAware="false"
-            android:enabled="@bool/enable_system_alarm_service_default"
-            android:exported="false" />
-        <service
-            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-            android:directBootAware="false"
-            android:enabled="@bool/enable_system_job_service_default"
-            android:exported="true"
-            android:permission="android.permission.BIND_JOB_SERVICE" />
-
-        <receiver
-            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-            android:directBootAware="false"
-            android:enabled="true"
-            android:exported="false" />
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-            android:directBootAware="false"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-            </intent-filter>
-        </receiver>
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-            android:directBootAware="false"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="android.intent.action.BATTERY_OKAY" />
-                <action android:name="android.intent.action.BATTERY_LOW" />
-            </intent-filter>
-        </receiver>
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-            android:directBootAware="false"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-            </intent-filter>
-        </receiver>
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-            android:directBootAware="false"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-            </intent-filter>
-        </receiver>
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-            android:directBootAware="false"
-            android:enabled="false"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-                <action android:name="android.intent.action.TIME_SET" />
-                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-            </intent-filter>
-        </receiver>
-        <receiver
-            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-            android:directBootAware="false"
-            android:enabled="@bool/enable_system_alarm_service_default"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-            </intent-filter>
-        </receiver>
-
-        <provider
-            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.RoyalSherry.lifecycle-process"
-            android:exported="false"
-            android:multiprocess="true" />
     </application>
 
 </manifest>

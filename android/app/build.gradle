@@ -137,7 +137,9 @@ android {
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
-
+dexOptions {
+            javaMaxHeapSize "4g"
+        }
     }
     splits {
         abi {
@@ -196,7 +198,9 @@ dependencies {
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
-    implementation 'com.facebook.android:facebook-android-sdk:[8,9)'
+   implementation 'com.facebook.android:facebook-android-sdk:[8,9)'
+
+    //implementation 'com.facebook.android:facebook-android-sdk:9'
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 

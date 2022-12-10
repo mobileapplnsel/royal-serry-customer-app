@@ -21,8 +21,6 @@ import org.reactnative.maskedview.RNCMaskedViewPackage;
 import io.github.elyx0.reactnativedocumentpicker.DocumentPickerPackage;
 // react-native-fbsdk
 import com.facebook.reactnative.androidsdk.FBSDKPackage;
-// react-native-firebase-push-notifications
-import com.afrihost.firebase.notifications.FirebasePushNotificationsPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-linear-gradient
@@ -87,7 +85,6 @@ public class PackageList {
       new RNCMaskedViewPackage(),
       new DocumentPickerPackage(),
       new FBSDKPackage(),
-      new FirebasePushNotificationsPackage(),
       new RNGestureHandlerPackage(),
       new LinearGradientPackage(),
       new ReactNativePushNotificationPackage(),

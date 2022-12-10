@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/appdev/Desktop/Backup_21_10_2021/New from USB/royalserryshipping/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/lnselapp/royal-serry-customer-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/appdev/.gradle/caches/transforms-2/files-2.1/c36d487a1143b43238b786103a617f6f/appcompat-1.1.0/res/values-land/values-land.xml",
+                    "source": "/Users/lnselapp/.gradle/caches/transforms-2/files-2.1/86faea397c0945fa335a13c9da172412/appcompat-1.1.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/appdev/.gradle/caches/transforms-2/files-2.1/c6dd338e1ce3581564e9f22ba0a52193/material-1.1.0/res/values-land/values-land.xml",
+                    "source": "/Users/lnselapp/.gradle/caches/transforms-2/files-2.1/3c94d54ab44d976ab256bcd54807d102/material-1.1.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,24,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
